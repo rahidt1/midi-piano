@@ -9,7 +9,7 @@ A simple piano made using javascript.
 
 ### Links
 
-- [Live](https://forkify-rahidt.netlify.app/)
+- [Live](https://midi-piano-rahidt.netlify.app/)
 
 ## Author
 
